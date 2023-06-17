@@ -166,3 +166,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 <a href="https://github.com/tailwarden/komiser/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tailwarden/komiser" />
 </a>
+![Screenshot (55)](https://github.com/tailwarden/komiser/assets/112654992/3a35b792-c9ee-4483-9dac-f4300b796deb)
